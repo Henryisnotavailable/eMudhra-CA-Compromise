@@ -6,3 +6,7 @@ This repo contains scripts that demonstrate how an attacker may have been levera
 As of writing, the certs are revoked and therefore no longer trusted by up-to-date versions of the major browsers.
 
 CLI tools like `curl`, `pip`, etc are obviously impacted as well, and should be updated.
+
+The certs were created in April 2025, and could have already been used in attacks.
+
+The scripts contained are purely for educational purposes only. 
